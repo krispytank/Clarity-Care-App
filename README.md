@@ -27,7 +27,7 @@ A comprehensive telemedicine platform built with the MERN stack (MongoDB, Expres
 - MongoDB
 - npm or yarn
 
-### Start the frontend development server
+### Frontend Setup
 
 ```bash
 npm run dev
