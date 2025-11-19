@@ -21,29 +21,35 @@ A comprehensive telemedicine platform built with the MERN stack (MongoDB, Expres
 
 ## Installation
 
+
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB
 - npm or yarn
 
-### Backend Setup
-
-1. Navigate to the backend directory:
-```bash
-cd backend
-npm install
-
 ### Start the frontend development server
 
-bash
+```bash
 npm run dev
 The frontend will run on http://localhost:3000 and will proxy API requests to the backend.
-
-Running the Application
-Ensure MongoDB is running (if using locally) or that your MongoDB Atlas cluster is accessible.
-
-Start the backend server (as above).
 
 Start the frontend server (as above).
 
 Open your browser 
+```
+
+### Backend Setup
+
+1. Navigate to the backend directory:
+
+```bash
+cd backend
+npm install
+npm run dev
+
+Start the backend server (as above).
+
+Running the Application
+Ensure MongoDB is running (if using locally) or that your MongoDB Atlas cluster is accessible.
+
+```
