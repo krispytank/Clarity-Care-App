@@ -1,4 +1,7 @@
-# TeleMedicine MERN Application
+# Clarity Care App
+
+## Overview
+
 
 A comprehensive telemedicine platform built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring real-time communication, appointment management, e-prescriptions, and secure file sharing.
 
