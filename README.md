@@ -32,3 +32,18 @@ A comprehensive telemedicine platform built with the MERN stack (MongoDB, Expres
 ```bash
 cd backend
 npm install
+
+### Start the frontend development server
+
+bash
+npm run dev
+The frontend will run on http://localhost:3000 and will proxy API requests to the backend.
+
+Running the Application
+Ensure MongoDB is running (if using locally) or that your MongoDB Atlas cluster is accessible.
+
+Start the backend server (as above).
+
+Start the frontend server (as above).
+
+Open your browser 
