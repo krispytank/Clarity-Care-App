@@ -62,6 +62,8 @@ Ensure MongoDB Atlas cluster is accessible.
 [Clarity Care App (live)](https://clarity-care-app.vercel.app/)
 
 ##  Login page
-[Login page](./login.png)
-[Register page](./createaccount.png)
-[Dashboard](./dashboard.png)
+![Login page](./login.png)
+## Registration page
+![Register page](./createaccount.png)
+## Dashboard page
+![Dashboard](./dashboard.png)
