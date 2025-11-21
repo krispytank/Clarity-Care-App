@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   server: {
-    port: "",
+    port: 'https://clarity-care-app.vercel.app/',
   },
   plugins: [
     tailwindcss(),
