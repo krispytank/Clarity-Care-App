@@ -53,6 +53,15 @@ npm run dev
 Start the backend server (as above).
 
 Running the Application
-Ensure MongoDB is running (if using locally) or that your MongoDB Atlas cluster is accessible.
+Ensure MongoDB Atlas cluster is accessible.
 
 ```
+
+## Live vercel link to the app
+
+[Clarity Care App (live)](https://clarity-care-app.vercel.app/)
+
+##  Login page
+[Login page](./login.png)
+[Register page](./createaccount.png)
+[Dashboard](./dashboard.png)
